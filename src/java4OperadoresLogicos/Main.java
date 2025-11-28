@@ -1,4 +1,4 @@
-package Java4OperadoresLogicos;
+package java4OperadoresLogicos;
 
 public class Main {
     public static void main(String[] args) {

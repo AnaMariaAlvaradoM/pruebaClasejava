@@ -1,4 +1,4 @@
-package Java4OperadoresLogicos.explicacion;
+package java4OperadoresLogicos.explicacion;
 
 public class EjercicioClase {
     public static void ejercicio1(){
