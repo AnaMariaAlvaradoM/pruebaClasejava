@@ -1,5 +1,7 @@
 package java5FlujoDeControl;
 
+import java7Metodos.Metodos;
+
 public class Main {
     public static void main(String[] args) {
         int stockDisponible = 50;
@@ -19,6 +21,8 @@ public class Main {
 
         //! Demostración Método manejar estado pedido:
         ProcesarPedido.manejarEstadoPedido("creado");
+
+        Metodos.mostrarMsjBienvenida();
 
     }
 }
